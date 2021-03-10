@@ -1,11 +1,3 @@
-<div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Github Explorer" />
-
-  &#xa0;
-
-  <!-- <a href="https://githubexplorer.netlify.app">Demo</a> -->
-</div>
-
 <h1 align="center">Github Explorer</h1>
 
 <p align="center">
@@ -44,15 +36,11 @@
 
 <br>
 
-## :dart: About ##
-
-Describe your project
-
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: List public repositories;\
+:heavy_check_mark: Display description;\
+:heavy_check_mark: Provide access link;
 
 ## :rocket: Technologies ##
 
@@ -66,8 +54,4 @@ The following tools were used in this project:
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made by <a href="https://github.com/mb4ndeira" target="_blank">Matheus Bandeira</a>
-
 &#xa0;
-
-<a href="#top">Back to top</a>
