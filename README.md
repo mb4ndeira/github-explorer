@@ -1,6 +1,6 @@
-<h1 align="center">Github Explorer</h1>
+<h1>Github Explorer</h1>
 
-<p align="center">
+<p>
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/mb4ndeira/Ignite_Github-explorer">
 
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/mb4ndeira/Ignite_Github-explorer">
@@ -24,10 +24,10 @@
 
 <hr> -->
 
-<p align="center">
+<p>
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0;  &#xa0;
+  <a href="#memo-license">License</a> &#xa0; 
 </p>
 
 <br>
