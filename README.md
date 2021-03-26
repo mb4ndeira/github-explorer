@@ -56,10 +56,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/mb4ndeira/ignite_github-explorer
+$ git clone https://github.com/mb4ndeira/github-explorer
 
 # Access
-$ cd ignite_github-explorer
+$ cd github-explorer
 
 # Install dependencies
 $ yarn
