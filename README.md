@@ -1,13 +1,13 @@
 <h1>Github Explorer</h1>
 
 <p>
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/mb4ndeira/Ignite_Github-explorer">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/mb4ndeira/github-explorer">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/mb4ndeira/Ignite_Github-explorer">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/mb4ndeira/github-explorer">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/mb4ndeira/Ignite_Github-explorer?color=%23007acc">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/mb4ndeira/github-explorer?color=%23007acc">
 
-  <img alt="License" src="https://img.shields.io/github/license/mb4ndeira/Ignite_Github-explorer">
+  <img alt="License" src="https://img.shields.io/github/license/mb4ndeira/github-explorer">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/mb4ndeira/github-explorer?color=56BEB8" /> -->
 
